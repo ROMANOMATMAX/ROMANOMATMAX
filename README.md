@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/romam132/">Matias Romano</a> :smiley😇:
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ ||
-【P】【y】【t】【h】【o】【n】
+# <a href="https://www.linkedin.com/in/romam132/">Matias Romano</a>
+FRONTEND | BACKEND | REACTJS | NODEJS | FULL STACK WEB DEVELOPER|
+【J】【A】【V】【A】【S】【C】【R】【I】【P】【T】
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
