@@ -46,6 +46,6 @@ array.map(item => {
 <!--  todo list -->
 * [x] tarea 1
 * [x] tarea 1
-* [] tarea 1
-* [] tarea 1
-* [] tarea 1
+* [ ] tarea 1
+* [ ] tarea 1
+* [ ] tarea 1
