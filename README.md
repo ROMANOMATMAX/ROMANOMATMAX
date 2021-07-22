@@ -1,5 +1,4 @@
-# Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-# <a href="https://www.linkedin.com/in/gorasiyaneel/">Neel Gorasiya</a> :smiley😇:
+# <a href="https://www.linkedin.com/in/romam132/">Neel Gorasiya</a> :smiley😇:
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ ||
 【P】【y】【t】【h】【o】【n】
 
