@@ -1,3 +1,11 @@
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
+
 <!-- Headings -->
 # my title
 ## my title
