@@ -1,16 +1,51 @@
-### Hi there 👋
+<!-- Headings -->
+# my title
+## my title
+### my title 
+<!-- Italic -->
+*this is an italic text*
+<!-- Strong text -->
+this is an **strong** text 
+<!-- tachado -->
+esta es una palabra ~~tachada~~ 
+<!-- Lista desordenada -->
+* apple
+* orange
+* etc
+<!-- Lista ordenada -->
+1. apple
+2. orange
+3. banana
+<!-- Enlaces -->
+[romanomatias](https://www.google.com/)
 
-<!--
-**ROMANOMATMAX/ROMANOMATMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Esta es una cita -->
+>this a quoute
+<!-- Etiqueta hr -->
+___
+<!-- Escribir codigo -->
+`console.log()`
+```javascript
+array.map(item => {
 
-Here are some ideas to get you started:
+})
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+<!-- Table -->
+
+|Nombre  |Apellido|
+|-----------|---------|
+|Matias|Maximiliano|
+|Santiago|Romano|
+
+<!-- Imagenes -->
+![Imagen visual studio code](vscLogo.jpg)
+
+<!-- Github markdown -->
+<!--  todo list -->
+* [x] tarea 1
+* [x] tarea 1
+* [] tarea 1
+* [] tarea 1
+* [] tarea 1
