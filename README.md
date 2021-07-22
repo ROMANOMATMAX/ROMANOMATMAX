@@ -49,3 +49,6 @@ array.map(item => {
 * [ ] tarea 1
 * [ ] tarea 1
 * [ ] tarea 1
+
+
+:smiley: :+1:
