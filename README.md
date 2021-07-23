@@ -21,8 +21,9 @@ Happy Coding! :coffee::computer:
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMANOMATMAX&theme=radical&hide=glsl,python" />
 </a>
-
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=ROMANOMATMAX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<a>
+ <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=ROMANOMATMAX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</a>
 
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -33,8 +34,3 @@ Happy Coding! :coffee::computer:
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊
