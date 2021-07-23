@@ -17,7 +17,7 @@ Happy Coding! :coffee::computer:
 - ⚙️ &nbsp;<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 - 🔧 &nbsp;<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="start">Top langs :tongue:</h4>
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMANOMATMAX&theme=radical&hide=glsl,python" />
 </a>
