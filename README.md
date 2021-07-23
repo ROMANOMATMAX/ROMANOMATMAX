@@ -17,17 +17,14 @@ Happy Coding! :coffee::computer:
 - ⚙️ &nbsp;<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 - 🔧 &nbsp;<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-<h3 align="start">:tongue: Top langs</h4>
+<h3 align="start">:tongue: Top langs</h3>
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMANOMATMAX&theme=radical&hide=glsl,python" />
 </a>
 
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=ROMANOMATMAX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> ### Connect with me
-
-
-<i>Follow me:</i><br>
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"><h3>Connect with me</h3><br>
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
