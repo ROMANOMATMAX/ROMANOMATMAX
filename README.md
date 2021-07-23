@@ -5,7 +5,10 @@
 
 <h2>  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! :coffee::computer:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
